@@ -1,0 +1,54 @@
+.tit{
+ background-color: #6270c3;
+  overflow: hidden;
+   top:200%;
+}
+
+.topnav {
+  background-color: #1e251d;
+  overflow: hidden;
+}
+
+.topnav a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 26px;
+  font-size: 17px;
+}
+
+p{
+font-size:20px;
+}
+
+.card 1{
+position: absolute;
+  down: 100%;
+  top:35%;
+  left:30%;
+}
+
+.card 2{
+position: absolute;
+  down: 100%;
+  top:35%;
+  right:30%;
+}
+.card 3{
+position: absolute;
+  down: 100%;
+  top:100%;
+   right:30%;
+   }
+
+.card 4{
+position: absolute;
+  down: 100%;
+  top:100%;
+  left:30%;
+}

@@ -1,0 +1,114 @@
+.tit{
+ background-color: #6270c3;
+  overflow: hidden;
+   top:200%;
+}
+
+.topnav {
+  background-color: #1e251d;
+  overflow: hidden;
+}
+
+.topnav a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 26px;
+  font-size: 17px;
+}
+
+
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+ 
+}
+
+.text-block {
+  position: absolute;
+  top: 50%;
+  left: 05%;
+  background-color: black;
+  color: white;
+
+}
+
+
+.kol-img{
+position: absolute;
+  down: 100%;
+  top:150%;
+  left:15%;
+
+}
+
+.kol-img a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+.chen-img{
+position: absolute;
+
+  down: 100%;
+  top:150%;
+  right:15%;
+}
+.chen-img a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+.del-img{
+position: absolute;
+
+  top: 100%;
+  top:200%;
+  right:15%;
+}
+.del-img a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+.mum-img{
+position: absolute;
+21:45 19-06-2023
+  top: 100%;
+  top:200%;
+  right:53%;
+}
+.mum-img a:hover {
+  background-color: #6270c3;
+  color: black;
+}
+
+
+.under-text{
+color:black;
+background-color:white;
+  overflow: hidden;
+}
+
+
+.h2 {
+font-size:20px;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
